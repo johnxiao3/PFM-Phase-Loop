@@ -71,6 +71,7 @@ extern "C" __declspec(dllexport) int macroMain()
 	double flag=1;
 	double Volt_now=0;
 	//read
+	//asdfsterwssdfs
 while(1)
 {
 	ifstream myfile1;
